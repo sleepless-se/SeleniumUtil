@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="https://sellercentral.amazon.co.jp/" />
+<title>amazonImageUpload</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">amazonImageUpload</td></tr>
+</thead><tbody>
+<tr>
+	<td>click</td>
+	<td>id=image-tab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>css=#Parent-ProductImage_PT01-div &gt; div.imageUploadWidget &gt; div.buttonsArea &gt; div.chooseImageButton &gt; div.imageUploadTempFormContainer &gt; form &gt; input[name=&quot;file&quot;]</td>
+	<td>/Users/patchanee/Desktop/drive-download-20160804T092646Z/Amazon1.jpg</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>css=#Parent-ProductImage_PT02-div &gt; div.imageUploadWidget &gt; div.buttonsArea &gt; div.chooseImageButton &gt; div.imageUploadTempFormContainer &gt; form &gt; input[name=&quot;file&quot;]</td>
+	<td>/Users/patchanee/Desktop/drive-download-20160804T092646Z/Amazon2.jpg</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>css=#Parent-ProductImage_PT03-div &gt; div.imageUploadWidget &gt; div.buttonsArea &gt; div.chooseImageButton &gt; div.imageUploadTempFormContainer &gt; form &gt; input[name=&quot;file&quot;]</td>
+	<td>/Users/patchanee/Desktop/drive-download-20160804T092646Z/Amazon3.jpg</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>css=#Parent-ProductImage_PT04-div &gt; div.imageUploadWidget &gt; div.buttonsArea &gt; div.chooseImageButton &gt; div.imageUploadTempFormContainer &gt; form &gt; input[name=&quot;file&quot;]</td>
+	<td>/Users/patchanee/Desktop/drive-download-20160804T092646Z/Amazon6.jpg</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>css=#Parent-ProductImage_PT05-div &gt; div.imageUploadWidget &gt; div.buttonsArea &gt; div.chooseImageButton &gt; div.imageUploadTempFormContainer &gt; form &gt; input[name=&quot;file&quot;]</td>
+	<td>/Users/patchanee/Desktop/drive-download-20160804T092646Z/Amazon7.jpg</td>
+</tr>
+<tr>
+	<td>pause</td>
+	<td>7000</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=main_submit_button</td>
+	<td></td>
+</tr>
+
+</tbody></table>
+</body>
+</html>

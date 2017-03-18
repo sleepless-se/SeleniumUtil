@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="https://catalog-sc.amazon.co.jp/" />
+<title>バリエーション</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">バリエーション</td></tr>
+</thead><tbody>
+<tr>
+	<td>click</td>
+	<td>css=input.row-selection</td>
+	<td></td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=condition_type-first-row</td>
+	<td>label=新品</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=standard_price-first-row</td>
+	<td>2980</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=quantity-first-row</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=quantity-first-row</td>
+	<td>10</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=external_product_id_type_gio_child_1</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=apply-changes</td>
+	<td></td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=external_product_id_type_gio_child_3</td>
+	<td>label=EAN</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=external_product_id_type_gio_child_4</td>
+	<td>label=EAN</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=external_product_id_type_gio_child_5</td>
+	<td>label=EAN</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=external_product_id_type_gio_child_6</td>
+	<td>label=EAN</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=external_product_id_type_gio_child_7</td>
+	<td>label=EAN</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=external_product_id_type_gio_child_8</td>
+	<td>label=EAN</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=external_product_id_type_gio_child_9</td>
+	<td>label=EAN</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=external_product_id_type_gio_child_10</td>
+	<td>label=EAN</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=external_product_id_type_gio_child_11</td>
+	<td>label=EAN</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=external_product_id_type_gio_child_12</td>
+	<td>label=EAN</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=external_product_id_type_gio_child_13</td>
+	<td>label=EAN</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=external_product_id_type_gio_child_14</td>
+	<td>label=EAN</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=external_product_id_type_gio_child_15</td>
+	<td>label=EAN</td>
+</tr>
+<tr>
+	<td>selectWindow</td>
+	<td>name=selenium_blank73103</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=input.row-selection</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=apply-changes</td>
+	<td></td>
+</tr>
+
+</tbody></table>
+</body>
+</html>
